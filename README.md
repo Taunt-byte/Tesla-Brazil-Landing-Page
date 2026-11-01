@@ -115,7 +115,7 @@ Elements become visible as the visitor navigates through the page, using the Int
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Tesla-Brazil-Landing-Page.git
+git clone https://github.com/Taunt-byte/Tesla-Brazil-Landing-Page.git
 ```
 
 Navigate to the project directory:
