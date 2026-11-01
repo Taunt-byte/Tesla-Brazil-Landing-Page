@@ -11,7 +11,15 @@ This project was developed using pure HTML, CSS, and JavaScript, focusing on mod
 
 ## Preview
 
-A premium-inspired automotive landing page featuring a minimalist interface, dark visual elements, and a clean user experience.
+<div align="center">
+
+  <img src="./Screenshot.png" alt="Tesla Brazil Landing Page" width="100%">
+
+  <h3>Tesla Brazil - Landing Page</h3>
+
+  <p>A modern automotive landing page built with HTML, CSS and JavaScript.</p>
+
+</div>
 
 ### Main Features
 
